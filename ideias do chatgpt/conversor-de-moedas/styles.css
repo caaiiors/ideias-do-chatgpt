@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.converter {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.converter h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.converter div {
+  margin-bottom: 10px;
+}
+
+.converter label {
+  display: block;
+}
+
+.converter input[type="number"],
+.converter select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.converter button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.converter button:hover {
+  background-color: #0056b3;
+}
+
+#result {
+  margin-top: 10px;
+  font-weight: bold
+}
