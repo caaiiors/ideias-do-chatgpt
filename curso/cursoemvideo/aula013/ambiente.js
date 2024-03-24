@@ -1,6 +1,0 @@
-console.log(`Tudobem?`)
-console.log(`Tudobem?`)
-console.log(`Tudobem?`)
-console.log(`Tudobem?`)
-console.log(`Tudobem?`)
-console.log(`Tudobem?`)
