@@ -5,6 +5,7 @@ function atualizarHorario(){
   var minutos = dataAtual.getMinutes()
   var segundos = dataAtual.getSeconds()
 
+  
   if (minutos < 10) {
   minutos = '0' + minutos;
   }
